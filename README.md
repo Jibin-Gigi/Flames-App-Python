@@ -1,6 +1,6 @@
-# FLAMES App - The Future Predictor of Romance and Bromance
+# FLAMES App - The Future Predictor of Romance 
 
-Welcome to the FLAMES App, where we take your love life as seriously as a cat chasing a laser pointer. This state-of-the-art, highly sophisticated, and AI-powered app will predict your future relationship with your crush using ancient algorithms that mystics probably used (but we can't confirm).
+Welcome to the FLAMES App, where we take your love life as seriously as a cat chasing a laser pointer. This state-of-the-art, highly sophisticated, and predict your future relationship with your crush using ancient algorithms that mystics probably used (but we can't confirm).
 
 ## Features
 
